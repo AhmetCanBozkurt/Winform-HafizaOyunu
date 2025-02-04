@@ -1,0 +1,28 @@
+c:\users\administrator\documents\visual studio 2015\Projects\Görsel3RastgeleButton\Görsel3RastgeleButton\bin\Debug\Görsel3RastgeleButton.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\Görsel3RastgeleButton\Görsel3RastgeleButton\bin\Debug\Görsel3RastgeleButton.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Görsel3RastgeleButton\Görsel3RastgeleButton\bin\Debug\Görsel3RastgeleButton.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\Görsel3RastgeleButton\Görsel3RastgeleButton\obj\Debug\Görsel3RastgeleButton.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\Görsel3RastgeleButton\Görsel3RastgeleButton\obj\Debug\Görsel3RastgeleButton.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\Görsel3RastgeleButton\Görsel3RastgeleButton\obj\Debug\Görsel3RastgeleButton.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\Görsel3RastgeleButton\Görsel3RastgeleButton\obj\Debug\Görsel3RastgeleButton.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\Görsel3RastgeleButton\Görsel3RastgeleButton\obj\Debug\Görsel3RastgeleButton.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Görsel3RastgeleButton\Görsel3RastgeleButton\obj\Debug\Görsel3RastgeleButton.pdb
+D:\Görsel3RastgeleButton\Görsel3RastgeleButton\bin\Debug\Görsel3RastgeleButton.exe.config
+D:\Görsel3RastgeleButton\Görsel3RastgeleButton\obj\Debug\Görsel3RastgeleButton.exe
+D:\Görsel3RastgeleButton\Görsel3RastgeleButton\obj\Debug\Görsel3RastgeleButton.pdb
+D:\Görsel3RastgeleButton\Görsel3RastgeleButton\bin\Debug\Görsel3RastgeleButton.exe
+D:\Görsel3RastgeleButton\Görsel3RastgeleButton\bin\Debug\Görsel3RastgeleButton.pdb
+D:\Görsel3RastgeleButton\Görsel3RastgeleButton\obj\Debug\Görsel3RastgeleButton.csprojResolveAssemblyReference.cache
+D:\Görsel3RastgeleButton\Görsel3RastgeleButton\obj\Debug\Görsel3RastgeleButton.Form1.resources
+D:\Görsel3RastgeleButton\Görsel3RastgeleButton\obj\Debug\Görsel3RastgeleButton.Properties.Resources.resources
+D:\Görsel3RastgeleButton\Görsel3RastgeleButton\obj\Debug\Görsel3RastgeleButton.csproj.GenerateResource.Cache
+C:\Users\Huawei\OneDrive\Masaüstü\Haf-zaOyunu-main\Görsel3RastgeleButton\bin\Debug\Görsel3RastgeleButton.exe.config
+C:\Users\Huawei\OneDrive\Masaüstü\Haf-zaOyunu-main\Görsel3RastgeleButton\bin\Debug\Görsel3RastgeleButton.exe
+C:\Users\Huawei\OneDrive\Masaüstü\Haf-zaOyunu-main\Görsel3RastgeleButton\bin\Debug\Görsel3RastgeleButton.pdb
+C:\Users\Huawei\OneDrive\Masaüstü\Haf-zaOyunu-main\Görsel3RastgeleButton\obj\Debug\Görsel3RastgeleButton.csproj.AssemblyReference.cache
+C:\Users\Huawei\OneDrive\Masaüstü\Haf-zaOyunu-main\Görsel3RastgeleButton\obj\Debug\Görsel3RastgeleButton.Form1.resources
+C:\Users\Huawei\OneDrive\Masaüstü\Haf-zaOyunu-main\Görsel3RastgeleButton\obj\Debug\Görsel3RastgeleButton.Properties.Resources.resources
+C:\Users\Huawei\OneDrive\Masaüstü\Haf-zaOyunu-main\Görsel3RastgeleButton\obj\Debug\Görsel3RastgeleButton.csproj.GenerateResource.cache
+C:\Users\Huawei\OneDrive\Masaüstü\Haf-zaOyunu-main\Görsel3RastgeleButton\obj\Debug\Görsel3RastgeleButton.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\OneDrive\Masaüstü\Haf-zaOyunu-main\Görsel3RastgeleButton\obj\Debug\Görsel3RastgeleButton.exe
+C:\Users\Huawei\OneDrive\Masaüstü\Haf-zaOyunu-main\Görsel3RastgeleButton\obj\Debug\Görsel3RastgeleButton.pdb
